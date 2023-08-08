@@ -32,6 +32,8 @@ To download said file, follow these steps:
 2. Navigate to the project directory: `cd qr-code-generator`
 3. Open `index.html` in a web browser.
 
+Or go to the releases tab and download it there.
+
 ## How It Works
 
 1. Input text or URL in the provided text box.
